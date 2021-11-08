@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(248, 255, 182);
+}
+
+tr.sombreado:hover, a.ex3:active {
+    background: slategray;
+}
+
+tr.sombreado2:hover, a.ex3:active {
+    background: aquamarine;
+}
+.pointer {
+    cursor: pointer;
+}
